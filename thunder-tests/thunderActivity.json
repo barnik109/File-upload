@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "bf41e8b7-deee-4252-b884-99402b20f4bc",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3000/api/v1/products/uploads",
+    "url": "localhost:3000/api/v1/products/uploads",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-08-28T03:20:55.987Z",
+    "modified": "2022-08-28T03:20:56.157Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "formdata",
+      "raw": "",
+      "form": [],
+      "files": [
+        {
+          "name": "image",
+          "value": "../images/computer-3.jpeg"
+        }
+      ]
+    },
+    "tests": []
+  },
+  {
+    "_id": "6f7e103f-39d9-4d08-a5ec-41f9a92add97",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3000/api/v1/products/uploads",
+    "url": "localhost:3000/api/v1/products/uploads",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-08-28T03:21:14.218Z",
+    "modified": "2022-08-28T03:21:16.200Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "formdata",
+      "raw": "",
+      "form": [],
+      "files": [
+        {
+          "name": "image",
+          "value": "../images/computer-3.jpeg"
+        }
+      ]
+    },
+    "tests": []
+  }
+]
